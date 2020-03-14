@@ -1,0 +1,7 @@
+{
+  id: @product.id,
+  name: @product.name,
+  width: @product.width,
+  height: @product.height
+}
+
